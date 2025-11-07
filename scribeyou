@@ -1,0 +1,12 @@
+scribeyou/
+ ├─ backend/
+ │   ├─ app.py
+ │   ├─ requirements.txt
+ │   ├─ langchain_chains.py
+ │   └─ utils.py
+ ├─ frontend/
+ │   └─ (V0.dev output React app)
+ ├─ infra/
+ │   └─ readme-deploy.md
+ └─ README.md
+
